@@ -1,1 +1,59 @@
-/* место для вашего кода */
+
+
+body {
+    font-family: Raleway, sans-serif;
+}
+
+.header {
+    box-sizing: border-box;
+    display: flex;
+    margin: 92px 24px;
+  
+    justify-content: space-between;
+    align-items: center;
+ 
+}
+
+.header_menu {
+    display: block;
+    flex-direction: row;
+    padding: 0;
+    margin: 0;
+}
+
+
+
+.header_menu_ul {
+    display: flex;
+    flex-direction: row;
+    justify-content:stretch;
+    padding: 0;
+    margin: 0;
+   
+}
+
+.menu_text {
+    font-size: 18px;
+    font-weight: 400;
+font-size: 18px;
+letter-spacing: 0.01em;
+color: #000;
+}
+
+.header_logo {
+    display: block;
+    width: 148px;
+    justify-content: start;
+}
+
+.header_contacts {
+    display: flex;
+    flex-direction: column;
+}
+
+.header_address {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
