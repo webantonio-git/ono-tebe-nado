@@ -219,6 +219,7 @@
   flex-direction: column;
   position: relative;
   justify-content: space-between;
+  align-items: end;
   width: 100%;
   height: 100%;
   background-image: url(../images/card-lot-01.jpg);
@@ -280,6 +281,7 @@
   font-size: 19px;
   letter-spacing: 0.03em;
   line-height: 124%;
+  align-self: end;
 }
 
 .lots__look-more-link {

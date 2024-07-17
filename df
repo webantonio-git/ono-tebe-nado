@@ -1,0 +1,72 @@
+[33mcommit 3cda91ad65d35e0273d690a6fbc333a106c27789[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 0d44b39 7d86280
+Author: Anton Baronin <webantonio@yandex.ru>
+Date:   Thu Jul 18 02:01:13 2024 +0300
+
+    Merge branch 'main' of github.com:webantonio-git/ono-tebe-nado
+
+[33mcommit 0d44b3933ad5920a69f299f29d0b04e5fa609767[m
+Author: Anton Baronin <webantonio@yandex.ru>
+Date:   Thu Jul 18 01:48:07 2024 +0300
+
+    2-nd check-1
+
+[33mcommit a09a8ad6458985ad7cd54e99ed8f0e7038f3a1e3[m
+Author: Anton Baronin <webantonio@yandex.ru>
+Date:   Wed Jul 17 17:06:46 2024 +0300
+
+    8-th after autotests
+
+[33mcommit 7d86280be894af4c5d37edea9a15227494b1ddfe[m
+Author: webantonio-git <webantonio@yandex.ru>
+Date:   Wed Jul 17 16:16:46 2024 +0300
+
+    Add files via upload
+
+[33mcommit c297f48e6e45a44e14ca4e2590a46ca4841bcd5e[m
+Author: webantonio-git <webantonio@yandex.ru>
+Date:   Wed Jul 17 16:15:25 2024 +0300
+
+    Create README.md
+
+[33mcommit f1c03ea1cf5420999687efd7a4acd52ba3302514[m
+Author: Anton Baronin <webantonio@yandex.ru>
+Date:   Wed Jul 17 15:12:02 2024 +0300
+
+    4-th after autotests
+
+[33mcommit a9a73d1cee9b7f29c55473cd626c27b2974e5061[m
+Author: Anton Baronin <webantonio@yandex.ru>
+Date:   Wed Jul 17 15:09:22 2024 +0300
+
+    3-rd after autotests
+
+[33mcommit a04e27be09ee0fe833beae5a9b963e09ccdb1b33[m
+Author: Anton Baronin <webantonio@yandex.ru>
+Date:   Wed Jul 17 15:05:53 2024 +0300
+
+    2-nd after autotests
+
+[33mcommit f8ce4b5da27102cf669d897a39f5ae8a86542572[m
+Author: Anton Baronin <webantonio@yandex.ru>
+Date:   Wed Jul 17 15:01:57 2024 +0300
+
+    after autotests
+
+[33mcommit 83589bdd43fb25f6ec4883077b356ab3fa729ba6[m
+Author: Anton Baronin <webantonio@yandex.ru>
+Date:   Wed Jul 17 14:21:10 2024 +0300
+
+    first_check
+
+[33mcommit 27d7fde33e97a2563136a7a6a7c8160c1141a35b[m
+Author: Anton Baronin <webantonio@yandex.ru>
+Date:   Wed Jul 3 00:51:24 2024 +0300
+
+    Попробовал с flex
+
+[33mcommit 279464a5560ff8e31e2787364d81a308fd5b8863[m
+Author: webantonio-git <webantonio@yandex.ru>
+Date:   Mon Jul 1 20:04:46 2024 +0300
+
+    Initial commit
