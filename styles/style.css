@@ -90,7 +90,7 @@ body {
   padding: 0;
 }
 
-.cover_title {  
+.cover_title {
   width: 100%;
   position: relative;
   z-index: 2;
@@ -146,7 +146,7 @@ body {
   align-items: center;
   font-weight: 200;
   font-size: 22px;
-  font-style: normal;  
+  font-style: normal;
   text-transform: uppercase;
   color: #fff;
   line-height: 1.1;
@@ -180,7 +180,7 @@ body {
   margin-top: 179px;
 }
 
-.lots__heading {  
+.lots__heading {
   width: 100%;
   display: block;
   margin-left: 40px;
