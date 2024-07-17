@@ -90,8 +90,7 @@ body {
   padding: 0;
 }
 
-.cover_title {
-  font-family: var(--font-family);
+.cover_title {  
   width: 100%;
   position: relative;
   z-index: 2;
@@ -145,7 +144,6 @@ body {
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
-  font-family: var(--font-family);
   font-weight: 200;
   font-size: 22px;
   font-style: normal;  
@@ -182,8 +180,7 @@ body {
   margin-top: 179px;
 }
 
-.lots__heading {
-  display: flex;
+.lots__heading {  
   width: 100%;
   display: block;
   margin-left: 40px;
