@@ -148,10 +148,7 @@ body {
   font-family: var(--font-family);
   font-weight: 200;
   font-size: 22px;
-  font-style: normal;
-  font-weight: normal;
-  line-height: normal;
-  letter-spacing: 0.3em;
+  font-style: normal;  
   text-transform: uppercase;
   color: #fff;
   line-height: 1.1;
@@ -187,7 +184,6 @@ body {
 
 .lots__heading {
   display: flex;
-
   width: 100%;
   display: block;
   margin-left: 40px;
