@@ -393,10 +393,6 @@
   row-gap: 200px;
 }
 
-.about__text-margin {
-  margin-bottom: 20px;
-}
-
 .footer {
   box-sizing: border-box;
   display: flex;
