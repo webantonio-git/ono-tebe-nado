@@ -392,8 +392,8 @@
   text-align: left;
   row-gap: 200px;
 }
-.about__text-2nd {
-  word-spacing: 0.2em;
+
+.about__text-2nd {  
   letter-spacing: 0.04em;
 }
 
