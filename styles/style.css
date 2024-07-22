@@ -235,6 +235,8 @@
   margin-left: 24px;
   margin-right: 24px;
   column-gap: 25px;
+  row-gap: 25px;
+  list-style-type: none;
 }
 
 .card_type_film {
